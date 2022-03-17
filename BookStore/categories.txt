@@ -1,0 +1,12 @@
+1, Action and Adventure
+2, Classics
+3, Comic Book or Graphic Novel
+4, Detective and Mystery
+5, Fantasy
+6, Historical Fiction
+7, Horror
+8, Literary Fiction
+9, Romance
+10, Science Fiction
+11, Short Stories
+12, Suspense and Thrillers

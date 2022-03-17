@@ -1,0 +1,12 @@
+1; 1; Life of Pi; Yann Martel; 9 
+2; 1; The three musketeers; Alexandre Dumas; 15
+3; 1; The call of the wild; Jack London; 6.5
+4; 2; To kill a mockingbird; Harper Lee; 7
+5; 2; Little women; Louissa May Alcoll; 14
+6; 2; Beloved; Toni Morrison; 9.2
+7; 3; The Boy, the mole, the fox and the horse; Charlie Mackesy; 10.5
+8; 4; Little, Brown and Company the Night Fire; Renee Ballard and Harry Hosch; 10.5
+9; 4; The adventures of sherlock Holmes; Sir Arthur Conan Doyle; 8
+10; 4; And then there were none; Agathe Christie; 8
+11; 5; Circe; Madeline Miller; 12
+12; 5; Ninth House; Leigh Bardugo; 17.2
